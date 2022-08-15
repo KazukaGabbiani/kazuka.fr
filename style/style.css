@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'blackchancery';
+  src: url('blackchancery.regular.ttf');
+  font-size: 20px
+}
+
+@font-face {
+  font-family: 'perfect-dark';
+  src: url('perfect-dark-brk.regular.ttf');
+}
+
+@font-face {
+  font-family: 'gill-sans';
+  src: url('gill-sans.otf');
+}
+
+body {
+  background-color: #000000;
+}
